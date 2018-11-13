@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1541762313 source:f:\templap\src\point.cpp
+	"point.h"
+	<iostream>
+
+1541767542 f:\templap\include\point.h
+
+1541766596 source:f:\templap\src\pointarray.cpp
+	"pointArray.h"
+	"point.h"
+
+1541766381 f:\templap\include\pointarray.h
+	<point.h>
+
+1541914360 source:f:\templap\main.cpp
+	<iostream>
+	"point.h"
+	"pointArray.h"
+
